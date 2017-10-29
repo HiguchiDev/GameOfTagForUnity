@@ -1,0 +1,12 @@
+﻿<Properties StartupItem="GameOfTag.Plugins.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\EscapeCountDown.cs">
+    <Files>
+      <File FileName="Assets\EscapeCountDown.cs" Line="7" Column="21" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
